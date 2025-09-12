@@ -1,0 +1,5 @@
+statsbombpy==1.14.0
+mplsoccer==1.2.4
+pandas
+numpy
+matplotlib
