@@ -1,6 +1,6 @@
 # Football_Match_Analysis
 
-# Core Match Analysis — Spain 3–3 Portugal (WC 2018)
+## Core Match Analysis — Spain 3–3 Portugal (WC 2018)
 
 **Goal:** Reproduce a professional post-match analyst report with xG timelines, shot maps, passing networks, and coaching insights.
 
